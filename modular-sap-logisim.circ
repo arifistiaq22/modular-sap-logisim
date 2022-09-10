@@ -635,4 +635,120 @@
     <wire from="(920,450)" to="(920,540)"/>
     <wire from="(920,540)" to="(940,540)"/>
   </circuit>
+  <circuit name="arithmatic_unit">
+    <comp lib="1" loc="(700,310)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,330)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,350)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,370)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,390)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,410)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,430)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,450)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(700,470)" name="Pin">
+      <a name="labelloc" val="east"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(930,230)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,250)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,270)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,290)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,310)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,330)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,350)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,370)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,390)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,410)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,430)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,450)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,470)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,490)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,510)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,530)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp lib="1" loc="(930,550)" name="Pin">
+      <a name="facing" val="west"/>
+    </comp>
+    <comp loc="(750,210)" name="ripple_carry_adder"/>
+    <wire from="(700,310)" to="(750,310)"/>
+    <wire from="(700,330)" to="(750,330)"/>
+    <wire from="(700,350)" to="(750,350)"/>
+    <wire from="(700,370)" to="(750,370)"/>
+    <wire from="(700,390)" to="(750,390)"/>
+    <wire from="(700,410)" to="(750,410)"/>
+    <wire from="(700,430)" to="(750,430)"/>
+    <wire from="(700,450)" to="(750,450)"/>
+    <wire from="(700,470)" to="(750,470)"/>
+    <wire from="(870,230)" to="(930,230)"/>
+    <wire from="(870,250)" to="(930,250)"/>
+    <wire from="(870,270)" to="(930,270)"/>
+    <wire from="(870,290)" to="(930,290)"/>
+    <wire from="(870,310)" to="(930,310)"/>
+    <wire from="(870,330)" to="(930,330)"/>
+    <wire from="(870,350)" to="(930,350)"/>
+    <wire from="(870,370)" to="(930,370)"/>
+    <wire from="(870,390)" to="(930,390)"/>
+    <wire from="(870,410)" to="(930,410)"/>
+    <wire from="(870,430)" to="(930,430)"/>
+    <wire from="(870,450)" to="(930,450)"/>
+    <wire from="(870,470)" to="(930,470)"/>
+    <wire from="(870,490)" to="(930,490)"/>
+    <wire from="(870,510)" to="(930,510)"/>
+    <wire from="(870,530)" to="(930,530)"/>
+    <wire from="(870,550)" to="(930,550)"/>
+  </circuit>
 </project>
