@@ -637,6 +637,37 @@
     <wire from="(920,540)" to="(940,540)"/>
   </circuit>
   <circuit name="arithmatic_unit">
+    <appear>
+      <circ-anchor facing="east" height="6" width="6" x="787" y="307"/>
+      <circ-port height="10" pin="410,280" width="10" x="675" y="245"/>
+      <circ-port height="10" pin="410,300" width="10" x="675" y="255"/>
+      <circ-port height="10" pin="410,320" width="10" x="675" y="265"/>
+      <circ-port height="10" pin="410,340" width="10" x="675" y="275"/>
+      <circ-port height="10" pin="410,360" width="10" x="675" y="285"/>
+      <circ-port height="10" pin="410,380" width="10" x="675" y="295"/>
+      <circ-port height="10" pin="410,400" width="10" x="675" y="305"/>
+      <circ-port height="10" pin="410,420" width="10" x="675" y="315"/>
+      <circ-port height="10" pin="410,440" width="10" x="675" y="325"/>
+      <circ-port height="8" pin="1000,250" width="8" x="576" y="316"/>
+      <circ-port height="8" pin="1060,250" width="8" x="576" y="326"/>
+      <circ-port height="8" pin="1120,250" width="8" x="576" y="336"/>
+      <circ-port height="8" pin="1180,250" width="8" x="576" y="346"/>
+      <circ-port height="8" pin="1280,260" width="8" x="576" y="366"/>
+      <circ-port height="8" pin="640,200" width="8" x="576" y="246"/>
+      <circ-port height="8" pin="640,220" width="8" x="576" y="256"/>
+      <circ-port height="8" pin="640,240" width="8" x="576" y="266"/>
+      <circ-port height="8" pin="640,260" width="8" x="576" y="356"/>
+      <circ-port height="8" pin="640,280" width="8" x="576" y="376"/>
+      <circ-port height="8" pin="640,300" width="8" x="576" y="386"/>
+      <circ-port height="8" pin="640,320" width="8" x="576" y="396"/>
+      <circ-port height="8" pin="640,340" width="8" x="576" y="406"/>
+      <circ-port height="8" pin="760,250" width="8" x="576" y="276"/>
+      <circ-port height="8" pin="820,250" width="8" x="576" y="286"/>
+      <circ-port height="8" pin="880,250" width="8" x="576" y="296"/>
+      <circ-port height="8" pin="940,250" width="8" x="576" y="306"/>
+      <rect fill="none" height="360" stroke="#000000" stroke-width="2" width="120" x="790" y="310"/>
+      <text dominant-baseline="top" font-family="SansSerif" font-size="12" text-anchor="middle" x="852" y="290">ARITHMATIC UNIT</text>
+    </appear>
     <comp lib="1" loc="(1000,250)" name="Pin">
       <a name="facing" val="south"/>
     </comp>
